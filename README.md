@@ -1,2 +1,0 @@
-# slack-clone
-Portfolio1
